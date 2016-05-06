@@ -7,7 +7,7 @@ Says chat messages on using windows TTS
 4. Rename the folder inside to `node-winsay`
 5. put that folder in the base of the zip of this project should endup looking like this:
 ![](https://i.probableprime.co.uk/u/r/_hbSUEGpFQ.png)
-6. Edit the username,password and channel inside index.js line 59 & 60
+6. Edit the username,password and channel inside index.js line 59 & 60 and channel name on line 7
 7. Open a command window in the folder
 7. run `npm install`
 8. Node index.js
